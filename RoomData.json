@@ -72,4 +72,17 @@
     ]
   }
 ]
-
+ "CreationTime": null,
+    "RoomId": 5,
+    "Name": "TheOfficePVP!",
+    "Description": "Paintball. Dunder Mifflin style.",
+    "ImageName": null,
+    "Sandbox": true,
+    "CreatorPlayerId": 1,
+    "AllowScreenMode": true,
+    "Scenes": [
+      {
+        "SceneId":1,
+        "UnitySceneId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name": "Home",
+        "DataBlob": "ymK88QJu70SpdgWp-UWxlw.room"
